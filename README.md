@@ -7,7 +7,7 @@ _-_ <br>
  
 # inner_base
 ///\\\ <br>
-|||||| <br>
+| | | | | | <br>
 \\\/// <br>
 
 # outer_base
