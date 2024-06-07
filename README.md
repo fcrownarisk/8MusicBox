@@ -1,14 +1,14 @@
 ### 8MusicBox
 ## a small music box based on 8 notes
 # base
-*\|/*
-*_-_*
-*/|\*
+\|/ 
+_-_
+/|\
  
 # inner_base
-# ///\\\\
-# ||||||
-# \\\///
+///\\\ <td>
+|||||| <td>
+\\\/// <td>
 
 # outer_base
 ==**== <br>
