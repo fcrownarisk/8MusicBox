@@ -2,6 +2,7 @@ import i
 import j
 import k
 import l
+export default function ijkl(gear){
 var
 gear_i= 
 "/==\'"
@@ -14,3 +15,4 @@ gear_ijk=
 var
 gear_ijkl=
 "\\||//"
+}
