@@ -1,3 +1,6 @@
+import inner
+import outer
+export await function base(){      
 const 
 base = 
 "\|/"
@@ -14,6 +17,6 @@ outer_base =
 "==%%=="
 "==++=="
 "==--=="
-
+}
 
         
