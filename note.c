@@ -6,7 +6,8 @@
 #define E4 \
 #define F4 =
 #define G4 -
-#define A4 
+#define A4 .
+#define B4 :
 void CDEFGAB(){
    int C4 = 293.66
    float D4 = 329.63
