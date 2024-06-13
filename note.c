@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <math.h>
 #include <signal.h>
+#define C4 |
+#define D4 /
+#define E4 \
+#define F4 =
+#define G4 -
+#define A4 
 void CDEFGAB(){
    int C4 = 293.66
    float D4 = 329.63
